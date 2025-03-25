@@ -1,0 +1,44 @@
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T19:36:30.548Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T19:36:41.149Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T19:36:46.458Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T19:37:11.440Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-10T19:37:11.441Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-10T19:37:11.441Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T19:37:22.045Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-10T19:37:22.045Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-10T19:37:22.045Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T19:37:27.347Z"}
+{"code":"EPIPE","errno":-32,"level":"error","message":"Bot encountered error: write EPIPE","stack":"Error: write EPIPE\n    at afterWriteDispatched (node:internal/stream_base_commons:161:15)\n    at writeGeneric (node:internal/stream_base_commons:152:3)\n    at Socket._writeGeneric (node:net:958:11)\n    at Socket._write (node:net:970:8)\n    at writeOrBuffer (node:internal/streams/writable:572:12)\n    at _write (node:internal/streams/writable:501:10)\n    at Writable.write (node:internal/streams/writable:510:10)\n    at Framer.ondata (/home/runner/workspace/node_modules/readable-stream/lib/internal/streams/readable.js:707:22)\n    at Framer.emit (node:events:518:28)\n    at addChunk (/home/runner/workspace/node_modules/readable-stream/lib/internal/streams/readable.js:323:12)","syscall":"write","timestamp":"2025-03-10T19:38:11.917Z"}
+{"level":"error","message":"Error details: write EPIPE","timestamp":"2025-03-10T19:38:11.919Z"}
+{"level":"error","message":"Error code: EPIPE","timestamp":"2025-03-10T19:38:11.920Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T19:38:32.558Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-10T19:38:32.558Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-10T19:38:32.559Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T19:38:42.489Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-10T19:38:42.490Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-10T19:38:42.490Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T19:38:57.860Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-10T19:38:57.860Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-10T19:38:57.860Z"}
+{"level":"error","message":"Max reconnection attempts reached. Shutting down.","timestamp":"2025-03-10T19:39:02.865Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T22:56:14.855Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-10T22:56:14.855Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-10T22:56:14.856Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T22:56:14.858Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-10T22:56:14.858Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-10T22:56:14.858Z"}
+{"level":"error","message":"Max reconnection attempts reached. Shutting down.","timestamp":"2025-03-10T22:57:15.764Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-10T22:58:42.247Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-10T22:58:42.248Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-10T22:58:42.249Z"}
+{"level":"error","message":"Max reconnection attempts reached. Shutting down.","timestamp":"2025-03-10T23:13:12.531Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-11T18:22:20.420Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-11T18:22:20.421Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-11T18:22:20.421Z"}
+{"level":"error","message":"Unhandled rejection at:","timestamp":"2025-03-11T18:22:25.088Z"}
+{"level":"error","message":"Unhandled rejection at:","timestamp":"2025-03-11T18:22:30.493Z"}
+{"level":"error","message":"Unhandled rejection at:","timestamp":"2025-03-11T18:53:15.707Z"}
+{"code":"ECONNRESET","errno":-104,"level":"error","message":"Bot encountered error: read ECONNRESET","stack":"Error: read ECONNRESET\n    at TCP.onStreamRead (node:internal/stream_base_commons:218:20)","syscall":"read","timestamp":"2025-03-14T18:32:11.881Z"}
+{"level":"error","message":"Error details: read ECONNRESET","timestamp":"2025-03-14T18:32:11.882Z"}
+{"level":"error","message":"Error code: ECONNRESET","timestamp":"2025-03-14T18:32:11.882Z"}
+{"level":"error","message":"Uncaught exception: bot._client.chat is not a function","stack":"TypeError: bot._client.chat is not a function\n    at chatWithHeader (/home/runner/workspace/node_modules/mineflayer/lib/plugins/chat.js:153:19)\n    at bot.chat (/home/runner/workspace/node_modules/mineflayer/lib/plugins/chat.js:194:5)\n    at Timeout._onTimeout (/home/runner/workspace/index.js:111:26)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-03-14T19:05:36.068Z"}
