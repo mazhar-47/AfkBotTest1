@@ -1,0 +1,2 @@
+# AfkBotTest1
+MinecraftAfkBot
